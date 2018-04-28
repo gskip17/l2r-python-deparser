@@ -9,7 +9,7 @@ setup(
     version = "0.0.1",
     author = "Grant Skipper",
     author_email = "gskipper@iu.edu",
-    description = ("Packet Sniffer and Deparser for L2R - not just a pcap dissector :D"),
+    description = ("Packet Sniffer and Parser for L2R - not just a pcap dissector :D"),
     license = "BSD",
     long_description=read('README.md'),
     include_package_data = True,
