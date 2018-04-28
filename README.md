@@ -1,4 +1,4 @@
-# Python Packet Sniffer and Deparser for Lineage 2 Revolution RX Packets
+# Python Packet Sniffer and Parser for Lineage 2 Revolution RX Packets
 
 Still a lot to be done. Putting this in a repo in case others want to lend a hand.
 
