@@ -35,6 +35,6 @@ Still a lot to be done. Putting this in a repo in case others want to lend a han
 
 ### Resources
 
-	- Mainly Defunkt ( he knows what I mean :D )
-	- Flamewires
+
+	- L2R clannies I dont want to say who
 	- this repo: https://github.com/AngryHank - kinda.
